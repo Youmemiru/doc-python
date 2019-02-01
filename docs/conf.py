@@ -144,6 +144,8 @@ latex_documents = [
      'youmemiru.inc', 'manual'),
 ]
 
+# LaTeX の docclass 設定
+latex_docclass = {'manual': 'jsbook'}
 
 # -- Options for manual page output ---------------------------------------
 

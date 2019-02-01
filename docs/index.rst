@@ -4,16 +4,16 @@
    contain the root `toctree` directive.
 
 ようこそ！Robodone Python ドキュメントページへ
-=========================================
+============================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents
    :numbered:
 
+   /Setting/overview
    /test/test1
    /test/test2
-   /test/test3
 
 .. toctree::
    :maxdepth: 2
