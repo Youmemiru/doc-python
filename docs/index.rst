@@ -3,8 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-ようこそ！
-Robodone Python ドキュメントページへ
+ようこそ！Robodone Python ドキュメントページへ
 =========================================
 
 .. toctree::

@@ -46,7 +46,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'python documents'
+project = 'ロボ団 Python ドキュメント'
 copyright = '2019, youmemiru.inc'
 author = 'youmemiru.inc'
 
